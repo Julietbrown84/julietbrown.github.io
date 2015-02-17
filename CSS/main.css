@@ -15,3 +15,8 @@ a {
 header {
 	background: #888; 
 }
+
+nav a.selected, nav a:hover {
+   color: #32673f;
+}
+
