@@ -2,7 +2,19 @@
     text-decoration: none;
   }
 
- #wrapper{ 
+#wrapper{ 
      max-width: 940px;
      margin: 0 auto;
   }
+
+#title {
+     text-align: center;
+}
+
+a {
+	color: #000;
+}
+
+header {
+	background: #888; 
+}
