@@ -108,7 +108,7 @@
 	     	 <style>
 	     	 .profile-photo {
 		     	image: url("image/profile photo.jpg");
-		     	display:block;
+		     	display: block;
 		 	    max-width: 150px;
 		     	margin: 0 auto 50 px;
 		     	border-radius: 100%;
@@ -121,7 +121,6 @@
         max-width: 150px;
         border-radius: 100%;
         float: left;
-        background-position: left;
         margin: 0.5% 80 px 0;
              }
 		    </style>
@@ -145,17 +144,35 @@
           font-family: 'Roboto', sans-serif;
          }
           </style>
-          <style>
-            #center_content {
-             background-repeat: no-repeat;
-             margin-right: 25px;
-             margin left: 25px;
-             font-family: 'Roboto', sans-serif;  
-             background-color: #fff;
-             text-align: right;
-              color: #191970;
-             }
-             </style>
+          <head>
+            <style>
+            div.img {
+            margin: 5px;
+            padding: 10px;
+            border: 1px solid #B8B8B8;
+            height: auto;
+            width: auto;
+            float: left;
+            text-align: center;
+              }
+            div.img img {
+              display: inline;
+              margin: 5px;
+              border: 1px solid #B8B8B8;
+              }
+            div.img a:hover img {
+              border:1px solid #B8B8B8;
+                  }
+             div.desc {
+            text-align: center;
+            font-weight: normal;
+            font-family: 'Roboto', sans-serif;
+            font-size: 0.5cm;
+            color: black;
+            width: 120px;
+            margin: 5px;
+            }
+           <style>
   		      </head>
   		<body>
      <header>
@@ -178,23 +195,14 @@
 	     	</section>
 		      <div id="wrapper">
 		  	     <section>
-            <section id="all">
-          <section id="right_content">          
-	       		<img class="profile-photo" src="image/profile photo.jpg" alt="A photo.">
-			    <a href="image/profile photo.jpg">
-			      </a>	
-	     		  <p> 
-            My creative process often seeks the nature of truth. Being inventive is important, as I believe that being curious and asking questions are new ways to see, surprise, excite and delight. 
-            Creativity for me is not the ability to create out of nothing, but the ability to generate new ideas by combining, changing, or reapplying existing ideas. To go beyond the mundane and the obvious and reject the traps of repetition and pre- set categories which challenges current beliefs and mind sets including my own.
-
-
-
-
-
-
-
-
-             <p>
+             <body>
+            <div class="img">section id="right_content">          
+	         	<img class="profile-photo" src="image/profile photo.jpg" alt="A photo.">
+			      <a href="image/profile photo.jpg">	
+             </a>
+            <div class="desc"> My creative process often seeks the nature of truth. Being inventive is important, as I believe that being curious and asking questions are new ways to see, surprise, excite and delight. 
+            Creativity for me is not the ability to create out of nothing, but the ability to generate new ideas by combining, changing, or reapplying existing ideas. To go beyond the mundane and the obvious and reject the traps of repetition and pre- set categories which challenges current beliefs and mind sets including my own.</div>
+           </div>
 	 		</section>
 	 		<footer>
 	  		 <p>&copy; Juliet Brown 2015. </p>
