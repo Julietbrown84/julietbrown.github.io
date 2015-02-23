@@ -16,24 +16,33 @@ nav a.selected, nav a:hover {
 }
 
  h1  {
- color: #191970;
+ color: #380B61;
  font-family: 'Roboto', sans-serif;
  margin: 15 px 0;
  font-size: 2cm;
  font-weight: normal;
  text-align: left;
- line-height: 0.7cm;
+ line-height: 0.5cm;
   }
   		
   h2  {
-  color: #191970;
+  color: #380B61;
   font-family: 'Roboto', sans-serif;
   margin: -5 px 0 0;
   font-weight: normal;
   font-size: 2cm;
   text-align: left;
-  line-height: 0.8cm;
+  line-height: 0.1cm;
     	}
+
+ h5  {
+ color: #191970;
+ font-family: 'Roboto', sans-serif;
+ margin: -5 px 0 0;
+ font-weight: thick;
+ font-size: 0.8cm;
+ line-height: 0.9cm;
+ }
 
  h3  {
  color: #191970;
@@ -41,6 +50,8 @@ nav a.selected, nav a:hover {
  margin: -5 px 0 0;
  font-weight: normal;
  font-size: 0.6cm;
+  line-height: 0.8cm;
+
  
   }
   h4  {
