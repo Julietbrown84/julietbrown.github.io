@@ -59,7 +59,6 @@
            text-decoration: none;
               }
            
-        
             nav a {
             font-weight: 700;
             text-align: left;
@@ -74,36 +73,6 @@
             list-style: none;
             }
            
-            div.img {
-            margin: 5px;
-            padding: 10px;
-            border: 1px solid #B8B8B8;
-            height: auto;
-            width: auto;
-            float: left;
-            text-align: center;
-              }
-
-            div.img img {
-            display: inline;
-            margin: 5px;
-            border: 1px solid #B8B8B8;
-            }
-
-            div.img a:hover img {
-            border:1px solid #B8B8B8;
-                  }
-
-            div.desc {
-            text-align: center;
-            font-weight: normal;
-            font-family: 'Roboto', sans-serif;
-            font-size: 0.5cm;
-            color: black;
-            width: 120px;
-            margin: 5px;
-            }
-          
             footer {
             font-family: 'Roboto', sans-serif;
             font-size: 0.5cm;
@@ -139,12 +108,13 @@
        padding: 0;
        list-style: none;
          }
-     {
+     
      #secondary {
      width:40%
      float:right
      #primary
           }
+          
      body {
      background-image: url("../image/falling.jpg");
      background-repeat: no-repeat;
