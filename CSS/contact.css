@@ -115,7 +115,7 @@
             height: 20px;
             bottom: 0px; 
                }
-       
+
            header {
            background: #fff;  
               } 
@@ -125,31 +125,33 @@
       margin 0;
       font size: 0.9cm;
      }
-     </style>
-     <style>
+    
      .contact-info li .phone {
       background-image: url('../image/phone.jpg');
      }
-     </style>
-      <style>
+     
      .contact-info li .mail {
       background-image: url('../image/mail.jpg');
      }
-     </style>
-     <style>
+     
      nav ul{
        margin: 0 10px;
        padding: 0;
        list-style: none;
          }
-     </style>
-     <style>
-    
-     </style>
-     <style> {
-     #secondary
+     {
+     #secondary {
      width:40%
      float:right
      #primary
           }
-        <style>
+     body {
+     background-image: url("../image/falling.jpg");
+     background-repeat: no-repeat;
+     background-position: right top;
+     margin-right: 200px;
+     font-family: 'Roboto', sans-serif;    
+     background-color: #fff;
+     text-align: left;
+     color: #B0C4DE;
+    }
