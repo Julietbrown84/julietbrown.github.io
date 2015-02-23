@@ -1,11 +1,11 @@
-h1  {
+            h1  {      
   		    	color: #191970;
   	     		font-family: 'Roboto', sans-serif;
   	     		margin: 15 px 0;
   	     		font-size: 2cm;
   	     		font-weight: normal;
   	     		text-align: left;
-  	    		line-height: 0.8cm;
+  	    		line-height: 0.7cm;
   	     		}
   	       
   	     		h2  {
@@ -23,8 +23,8 @@ h1  {
   	     		font-family: 'Roboto', sans-serif;
   	     		margin: -5 px 0 0;
   	    		font-weight: normal;
-  	    		font-size: 0.5cm;
-  	    		line-height: 0.5cm;
+  	    		font-size: 0.7cm;
+  	    		line-height: 0.6cm;
   	     		}
   	      
   		    	h4  {
@@ -32,7 +32,7 @@ h1  {
   	     		font-family: 'Roboto', sans-serif;
   	     		margin: -5 px 0 0;
   	     		font-weight: normal;
-  	 	     	font-size: 0.75cm;
+  	 	     	font-size: 0.5cm;
   	 	     	text-align: left;
   	     		line-height: 0.5cm;
   		      	}
