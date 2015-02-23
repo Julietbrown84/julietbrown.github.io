@@ -1,0 +1,128 @@
+		<style>
+  			h1  {
+  			color: #191970;
+  	 		font-family: 'Roboto', sans-serif;
+  	 		margin: 15 px 0;
+  	 		font-size: 2cm;
+  	 		font-weight: normal;
+  	 		text-align: left;
+  	 		line-height: 0.8cm;
+  			}
+  		</style>
+  		<style>
+  			h2  {
+  		  color: 191970;
+  	 		font-family: 'Roboto', sans-serif;
+  	 		margin: -5 px 0 0;
+  	 		font-weight: normal;
+  	 		font-size: 2cm;
+  	 		text-align: left;
+  	 		line-height: 0.8cm;
+  			}
+  		</style>
+  		<style>
+  			h3  {
+  		  color: #191970;
+  	 		font-family: 'Roboto', sans-serif;
+  	 		margin: -5 px 0 0;
+  	 		font-weight: normal;
+  	 		font-size: 0.5cm;
+  	 		line-height: 0.5cm;
+  			}
+  		</style> 
+  		<style>
+  			h4  {
+  		  color: #FE642E;
+  	 		font-family: 'Roboto', sans-serif;
+  	 		margin: -5 px 0 0;
+  	 		font-weight: normal;
+  	 		font-size: 0.75cm;
+  	 		text-align: left;
+  	 		line-height: 0.5cm;
+  			}
+  		</style> 
+        <style>
+            header {
+        margin: 30 30px 30 30 30;
+        padding: 5px 0 0;
+        text-align: left;
+        width: 50%;
+          }
+      </style>
+      <style>
+  		  image {    	
+  		  max-width: 100%
+  		    }
+  		  </style>
+        <style>
+          p { 
+        font-size: 0.5cm; 
+        color: #330000; 
+           }
+        </style>
+         <style>
+         nav a {
+        font-weight: 700;
+        text-align: left;
+  		  width: 100%;
+        font-size: 0.6cm;
+        font-family: 'Roboto', sans-serif;	
+        color: #B0C4DE;
+        background-color: #fff;
+            }
+        </style>
+        <style>
+        nav ul {
+        list-style: none;
+            }
+        </style> 
+        <style>
+        footer {
+        font-family: 'Roboto', sans-serif;
+        font-size: 0.5cm;
+        color: black;
+        text-align: left;
+        float: left;
+        width: 100%;
+        height: 100px;
+        position: absolute;
+        bottom: 0px; 
+           }
+         </style> 
+         <style>
+  		  	a {
+      	text-decoration: none;
+        	}
+     	   </style>
+  	     <style>
+  			header {
+		  	 background: #fff;	
+   		   	}
+     	   </style>
+	     	 <style>
+	     	 .profile-photo {
+		     	image: url("image/profile photo.jpg");
+		     	display:block;
+		 	    max-width: 150px;
+		     	margin: 0 auto 50 px;
+		     	border-radius: 100%;
+		      }
+         </style>
+          <style>
+		    .profile-photo {
+         display: block;
+         margin: 0 auto 40px; 
+         max-width: 150px;
+         border-radius: 100%;
+         float: right;
+         background-position: right;
+         margin: 0.5% 80 px 0;
+             }
+		    </style>
+         <style>
+          nav ul{
+         margin: 0 10px;
+         padding: 0;
+         text-align: left;
+         list-style: none;
+         }

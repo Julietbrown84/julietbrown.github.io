@@ -1,0 +1,130 @@
+<style>
+  		    	h1  {
+  		    	color: #191970;
+  	     		font-family: 'Roboto', sans-serif;
+  	     		margin: 15 px 0;
+  	     		font-size: 2cm;
+  	     		font-weight: normal;
+  	     		text-align: left;
+  	    		line-height: 0.8cm;
+  	     		}
+  	       	</style>
+        		<style>
+  	     		h2  {
+  		      color: 191970;
+  	 	     	font-family: 'Roboto', sans-serif;
+  	 	     	margin: -5 px 0 0;
+        		font-weight: normal;
+  	    		font-size: 2cm;
+  	     		text-align: left;
+      	 		line-height: 0.8cm;
+  	       		}
+  	       	</style>
+  		      <style>
+  	      	h3  {
+  		      color: #191970;
+  	     		font-family: 'Roboto', sans-serif;
+  	     		margin: -5 px 0 0;
+  	    		font-weight: normal;
+  	    		font-size: 0.5cm;
+  	    		line-height: 0.5cm;
+  	     		}
+  	       	</style> 
+  	   	    <style>
+  		    	h4  {
+  		      color: #FE642E;
+  	     		font-family: 'Roboto', sans-serif;
+  	     		margin: -5 px 0 0;
+  	     		font-weight: normal;
+  	 	     	font-size: 0.75cm;
+  	 	     	text-align: left;
+  	     		line-height: 0.5cm;
+  		      	}
+  		     </style>  		
+  		      <style>
+  		      header {
+  		     	margin: 30 30px 30 30 30;
+  		   	  padding: 5px 0 0;
+  		      text-align: left;
+  		      width: 50%;
+  		        }
+  		       </style>
+  		       <style>
+  		       image {    	
+  		       max-width: 100%
+  		          }
+  		      </style>
+      	    <style>
+  		      p { 
+  		  	  font-size: 0.5cm;	
+           	 color: #330000; 
+               }
+            </style>
+            <style>
+            nav a {
+           	font-weight: 700;
+            text-align: left;
+  		     	width: 100%;
+            font-size: 0.6cm;
+            font-family: 'Roboto', sans-serif;	
+          	color: #B0C4DE;
+          	background-color: #fff;
+            }
+           </style>
+           <style>
+            nav ul {
+            list-style: none;
+            }
+            </style>
+            <head>
+            <style>
+            div.img {
+            margin: 5px;
+            padding: 10px;
+            border: 1px solid #B8B8B8;
+            height: auto;
+            width: auto;
+            float: left;
+            text-align: center;
+              }
+            div.img img {
+            display: inline;
+            margin: 5px;
+            border: 1px solid #B8B8B8;
+            }
+            div.img a:hover img {
+            border:1px solid #B8B8B8;
+                  }
+            div.desc {
+            text-align: center;
+            font-weight: normal;
+            font-family: 'Roboto', sans-serif;
+            font-size: 0.5cm;
+            color: black;
+            width: 120px;
+            margin: 5px;
+            }
+    		   <style>
+           </head>           
+           <style>
+            footer {
+            font-family: 'Roboto', sans-serif;
+            font-size: 0.5cm;
+            color: black;
+            background-color: #fff;    
+            text-align: right;
+            float: left;
+            width: 50%;
+            height: 20px;
+            bottom: 0px; 
+               }
+           </style>
+  		     <style>
+  		    	a {
+      	   text-decoration: none;
+        	    }
+     	     </style>
+  		     <style>
+  		  	 header {
+			     background: #fff;	
+   		       	}
