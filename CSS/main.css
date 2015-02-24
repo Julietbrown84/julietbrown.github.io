@@ -42,7 +42,7 @@ nav a.selected, nav a:hover {
  margin: -5 px 0 0;
  font-weight: normal;
  font-size: 0.6cm;
-  line-height: 0.8cm;
+  line-height: 0.7cm;
 
  
   }
@@ -102,14 +102,14 @@ nav a.selected, nav a:hover {
   color: #B0C4DE;
   	}
 		     
-  	        footer {
-            font-family: 'Roboto', sans-serif;
-            font-size: 0.5cm;
-            color: black;
-            background-color: #fff;    
-            text-align: left;
-            float: left;
-            width: 50%;
-            height: 20px;
-            bottom: 0px; 
+  	 footer {
+      font-family: 'Roboto', sans-serif;
+      font-size: 0.5cm;
+       color: black;
+       background-color: #fff;    
+       text-align: left;
+       float: left;
+       width: 50%;
+       height: 20px;
+        bottom: 0px; 
                }
