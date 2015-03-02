@@ -4,7 +4,7 @@
 var canvasDiv = document.getElementById('canvas');
 canvas = document.createElement('canvas');
 canvas.setAttribute('width', canvasWidth);
-canvas.setAttribute('height', canvasHeight);
+canvas.setAttribute('height',canvasHeight);
 canvas.setAttribute('id', 'canvas');
 canvasDiv.appendChild(canvas);
 if(typeof G_vmlCanvasManager != 'undefined') {
@@ -13,7 +13,6 @@ if(typeof G_vmlCanvasManager != 'undefined') {
 context = canvas.getContext("2d");
 
 //Create a Drawing "Canvas"
-
 
 
 $('#canvas').mousedown(function(e){
