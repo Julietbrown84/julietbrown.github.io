@@ -65,16 +65,25 @@
               color: #330000; 
                  }
               
-               nav a {
+              nav a {
               font-weight: 700;
               text-align: left;
         		  width: 100%;
               font-size: 0.6cm;
               font-family: 'Roboto', sans-serif;	
               color: #B0C4DE;
-              background-color: #fff;
+              
                   }
+              nav {
+               display: inline-block;
+               width: 300px;
 
+              }
+              #all {
+               display: inline-block;
+               width: 300px;
+
+              }
               
               nav ul {
               list-style: none;
@@ -93,18 +102,13 @@
             	text-decoration: none;
               	}
            	  
-        			header {
-      		  	 background: #fff;	
-         		   	}
+        		
            	
       	     	 .profile-photo {
       		     	image: url("../image/profile photo.jpg");
-      		     	display:block;
+      		     	display: inline-block;
       		 	    max-width: 150px;
-      		     	margin: 0 auto 30px;
       		     	border-radius: 100px;
-                float: right;
-                position: : right;
 
       		      }
 		    
