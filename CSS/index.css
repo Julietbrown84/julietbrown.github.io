@@ -1,4 +1,4 @@
-          /*
+/*
 Theme Name: Vivarelli
 Theme URI: http://neuethemes.org/
 Description: A clean, minimalist Swiss graphic design inspired layout;
@@ -25,16 +25,18 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 }
 
 body {
-  line-height: 2;
+	line-height: 2;
     color: black;
-  background: white;
+	background: white;
 }
 
 ol, ul { list-style: none;}
 
 h2{font-size:11px; font-weight:normal; margin-top:8px;}
-h3{text-decoration:none; color:#000000; font-family: Courier New, serif; text-transform: uppercase; letter-spacing: 1px; font-size:17px; font-weight:solid; padding:30px 0 0 0; }
-h4{text-decoration:none; color:#F3E5AB; font-family: Courier New, serif; text-transform: uppercase; letter-spacing: 1px; font-size:17px; font-weight:solid; padding:30px 0 0 0; }
+h3{text-decoration:none; color:#000000; font-family: Courier New, serif; text-transform: uppercase; letter-spacing: 1px; font-size:16px; font-weight:solid; padding:30px 0 0 0; }
+h4{text-decoration:none; color:#F3E5AB; font-family: Courier New, serif; text-transform: uppercase; letter-spacing: 1px; font-size:16px; font-weight:solid; padding:30px 0 0 0; }
+
+
 
 /* ---------------------------Body----------------------------------------------------------------------------------------*/
 
@@ -99,5 +101,9 @@ a:hover                                                { text-decoration:underli
 .comment_container                       {margin-top: 20px; padding:5px; border:0px #CCCCCC;}
 .comment_box                             {background:none repeat scroll 0 0 #CCCCCC; padding:8px; border:0px #CCCCCC;}
 .header_widget li                        {float:left;}
+
+
+
+
 
 
