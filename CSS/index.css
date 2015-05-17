@@ -1,4 +1,4 @@
-          /*
+/*
 Theme Name: Vivarelli
 Theme URI: http://neuethemes.org/
 Description: A clean, minimalist Swiss graphic design inspired layout;
@@ -25,16 +25,18 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 }
 
 body {
-  line-height: 2;
+	line-height: 2;
     color: black;
-  background: white;
+	background: white;
 }
 
-ol, ul { list-style: none;}
+ol, ul { list-style: none;text-decoration:none;}
 
-h2{font-size:11px; font-weight:normal; margin-top:8px;}
-h3{text-decoration:none; color:#000000; font-family: Courier New, serif; text-transform: uppercase; letter-spacing: 1px; font-size:17px; font-weight:solid; padding:30px 0 0 0; }
-h4{text-decoration:none; color:#F3E5AB; font-family: Courier New, serif; text-transform: uppercase; letter-spacing: 1px; font-size:17px; font-weight:solid; padding:30px 0 0 0; }
+h2{font-size:14px; font-weight:normal; margin-top:8px;text-decoration:none;}
+h3{text-decoration:none; color:#000000; font-family: Courier New, serif; text-transform: uppercase; letter-spacing: 1px; font-size:16px; font-weight:solid; padding:30px 0 0 0; }
+h4{text-decoration:none; color:#F3E5AB; font-family: Courier New, serif; text-transform: uppercase; letter-spacing: 1px; font-size:16px; font-weight:solid; padding:30px 0 0 0; }
+
+
 
 /* ---------------------------Body----------------------------------------------------------------------------------------*/
 
@@ -89,15 +91,19 @@ a:hover                                                { text-decoration:underli
 
 .clear                                   { clear:both; line-height:0px; font-size:0px; }
 #footer .footer_text li                  { float:left; padding:50px 50px 124px 0; width:200px; }
-#footer .footercontent h3                { font-size: 18px; font-weight: normal; padding: 0; margin: 0; color: #000; }
-.profile-photo                           { image: url("../image/profile photo.jpg"); display: inline-block; max-width: 150px;
+#footer .footercontent h3                { font-size: 18px; font-weight: normal; padding: 0; margin: 0; color: #F3E5AB; }
+.profile-photo                           { image: url("../image/profile photo.jpg"); display: inline-block; max-width: 170px;
                                           border-radius: 100px; }
 
 #footer .footer_text li .textwidget h1   { font-size:11px; font-weight:normal; margin:0; padding:0; }
 .prevnext                                { font-size:11px; line-height:11px; padding:20px 16px 6px 0; }
 .navigation                              { font-size:11px; line-height: 11px; padding:16px 5 6px 0; }
-.comment_container                       {margin-top: 20px; padding:5px; border:0px #CCCCCC;}
-.comment_box                             {background:none repeat scroll 0 0 #CCCCCC; padding:8px; border:0px #CCCCCC;}
+.comment_container                       {margin-top: 20px; padding:5px; border:0px #F3E5AB;}
+.comment_box                             {background:none repeat scroll 0 0 #F3E5AB; padding:8px; border:0px #CCCCCC;}
 .header_widget li                        {float:left;}
+
+
+
+
 
 
