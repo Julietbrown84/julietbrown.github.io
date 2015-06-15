@@ -24,12 +24,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
     vertical-align: baseline;
 }
 
-body {
-	line-height: 2;
-    color: black;
-	background: white;
-}
-
+body {line-height: 2;color: black; background: white;}
 ol, ul { list-style: none;}
 
 h2{font-size:14px; font-weight:normal; margin-top:8px;}

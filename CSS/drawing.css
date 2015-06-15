@@ -4,6 +4,7 @@ Theme URI: http://neuethemes.org/
 Description: A clean, minimalist Swiss graphic design inspired layout;
 
 /*----------------------------------------------------------------------------------------------------------------------- */
+html, body { position: fixed; height: 100%; width: 100%; } 
 
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
