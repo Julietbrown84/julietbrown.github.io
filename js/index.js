@@ -1,6 +1,6 @@
 
 $(document).ready(function () {     
-    var bouncetime = 1000;
+    var bouncetime = 200;
     var ballheight = 280;
     var ballsize = 20;
  
