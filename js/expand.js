@@ -14,21 +14,5 @@ $(document).ready(function(){
           $(this).stop(true, false).animate({width: current_w + 'px', height: current_h + 'px'}, 300);
       }
   );
-});
 
-$(document).ready(function() {
-  $('button').click(function() {
-      var toAdd = $("input[name=message]").val();
-      $('#messages').append("<p>" + toAdd+ "</p>");
-    });
-  });
-
-	$('nav').hover(
-        function(){
-            $(this).addClass('active');
-        },
-        function(){
-            $(this).removeClass('active')
-        }
-     );
 });
