@@ -1,5 +1,5 @@
 $(document).ready(function () {     
-    var bouncetime = 200;
+    var bouncetime = 800;
     var ballheight = 200;
     var ballsize = 18;
  
