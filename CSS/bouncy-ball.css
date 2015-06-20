@@ -1,0 +1,31 @@
+/*
+#container {
+    width:400px;
+    height:400px;
+    margin:auto;
+    position: relative;
+    background-color: #F5F5F5;
+    margin-top:40px;
+    border:1px solid #CCC;
+}*/
+ 
+#ball {
+    border-radius: 50%;
+    background-color: red;
+    position:absolute;
+    left:50%;   
+    z-index:2;
+    display:none;
+    border:1px solid #999;
+}
+/**/
+/* 
+#shadow {
+    border-radius: 50%;
+    background-color: #CCC;
+    position:absolute;
+    bottom:10px;
+    left:50%;
+    z-index:1;
+    display:none;
+}*/
